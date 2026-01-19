@@ -14,4 +14,7 @@ set PATH=%P%;%PATH%
 set P=%MY_ROOT%bin\git
 set PATH=%P%;%PATH%
 
+set P=%MY_ROOT%bin\thonny
+set PATH=%P%;%PATH%
+
 
