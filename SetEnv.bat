@@ -17,4 +17,7 @@ set PATH=%P%;%PATH%
 set P=%MY_ROOT%bin\thonny
 set PATH=%P%;%PATH%
 
+set P=%MY_ROOT%bin\openocd\bin
+set PATH=%P%;%PATH%
+
 
